@@ -15,13 +15,15 @@
 Caso o campo esteja vazio, um alerta será mostrado solicitando a inserção de um nome válido.
 Os nomes adicionados são exibidos em uma lista na interface.</p>
 
+# ![Captura de Tela (111)](https://github.com/user-attachments/assets/4f2eb324-75dc-4e5f-8bda-7383e1830166)
+
 ## Sortear Amigo Secreto![Captura de Tela (110)](https://github.com/user-attachments/assets/290781dc-a688-48f9-ae95-ec38b5a3d4e8)
 
 <p>Ao clicar em "Sortear", o sistema escolhe aleatoriamente um amigo da lista para ser o "Amigo Secreto" de quem solicitou o sorteio.
 Se a lista de amigos estiver vazia, um alerta informará que é necessário adicionar um nome antes de realizar o sorteio.
 O resultado do sorteio é exibido na tela.</p>
 
-# ![Captura de Tela (111)](https://github.com/user-attachments/assets/4f2eb324-75dc-4e5f-8bda-7383e1830166)
+## ![Captura de Tela (112)](https://github.com/user-attachments/assets/41fb82c2-758b-4c95-97b8-17a1f2869fde)
 
 ## Limpar Lista
 <p>Após realizar o sorteio, a lista de amigos e o resultado do sorteio são apagados.
