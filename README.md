@@ -9,12 +9,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # Funcionalidades
-## Adicionar Amigo
+## Adicionar Amigo![Captura de Tela (107)](https://github.com/user-attachments/assets/22c59041-60a8-4131-9085-967355833e86)
+
 <p>O usuário pode inserir o nome de um amigo e adicionar à lista de amigos.
 Caso o campo esteja vazio, um alerta será mostrado solicitando a inserção de um nome válido.
 Os nomes adicionados são exibidos em uma lista na interface.</p>
 
-## Sortear Amigo Secreto
+## Sortear Amigo Secreto![Captura de Tela (110)](https://github.com/user-attachments/assets/290781dc-a688-48f9-ae95-ec38b5a3d4e8)
+
 <p>Ao clicar em "Sortear", o sistema escolhe aleatoriamente um amigo da lista para ser o "Amigo Secreto" de quem solicitou o sorteio.
 Se a lista de amigos estiver vazia, um alerta informará que é necessário adicionar um nome antes de realizar o sorteio.
 O resultado do sorteio é exibido na tela.</p>
