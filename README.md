@@ -21,6 +21,8 @@ Os nomes adicionados são exibidos em uma lista na interface.</p>
 Se a lista de amigos estiver vazia, um alerta informará que é necessário adicionar um nome antes de realizar o sorteio.
 O resultado do sorteio é exibido na tela.</p>
 
+# ![Captura de Tela (111)](https://github.com/user-attachments/assets/4f2eb324-75dc-4e5f-8bda-7383e1830166)
+
 ## Limpar Lista
 <p>Após realizar o sorteio, a lista de amigos e o resultado do sorteio são apagados.
 O campo de entrada de nome é limpo automaticamente.</p>
